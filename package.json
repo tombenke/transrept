@@ -28,6 +28,7 @@
   },
   "main": "index",
   "dependencies": {
-    "commander": "2.0.0"
+    "commander": "2.0.0",
+    "xml-mapping": "1.1.0"
   }
 }

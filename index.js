@@ -1,1 +1,1 @@
-module.exports.mycmd = require('./lib/mycmd');
+module.exports.process = require('./lib/process');
